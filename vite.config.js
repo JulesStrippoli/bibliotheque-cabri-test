@@ -8,7 +8,8 @@ export default defineConfig({
     
   ],
     build: {
-      outDir: '../cabricloud-lti1p3/public/bibliotheque-cabri'
+      outDir: '../bibliotheque-cabri-copie copie/cabricloud-lti1p3/public/bibliotheque-cabri'
+      //outDir: '../cabricloud-lti1p3/public/bibliotheque-cabri'
       //outDir: '../bibliotheque-cabri-lti1p3/public'
     },
 })
